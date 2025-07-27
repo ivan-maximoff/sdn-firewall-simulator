@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+scripts/logs/
+scripts/resultados/
+scripts/pids_temporales/
